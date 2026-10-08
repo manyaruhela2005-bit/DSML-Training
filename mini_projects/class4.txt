@@ -1,0 +1,18 @@
+Descriptive Statistics
+the process of collecting organizing and describing data so that we can understand what the data looks limme
+
+3 main things:
+1. where is the data centered- mean, median, mode
+2. how spread out the data is- range varience, standatrd deviation, IQR (Q3-Q1)
+3. how does the distribution looks like- min and max, % and quartiles, skewness, outliers, histograms and box plots
+
+real world examples- 
+1. employess salaries- in case of outlier go with median 
+2. customer spending
+3. Student marks
+
+*descriptive and inferential Statistics
+descriptive- what does my data show
+eg- avg salary of 500 employees is ₹48000
+inferentialwhat can i conclude about a large population
+eg-based on a sample of 500 employees, we estimate the average salary of all employees is₹48000
